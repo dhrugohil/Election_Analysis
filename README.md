@@ -11,7 +11,7 @@ The purpose of this election audit is to provide the election commision with a s
 
 With this information, the eclection commision can have a detailed insight on the election perfomance and can make informed decisions or assumptions based on the provided data analysis.
 
-###ELECTION OUTCOMES
+## ELECTION OUTCOMES
 *The was a total of 369,711 votes in the election.
 *Jefferson had a turnout of 38,855 (10.5%), Denver was at 306,055(82.8%) and Arapahoe recorded 24,801 (6.7%).
 *Clearly, Denver recorded the largest turnout amongst the counties at 82.8% of total turnout.
@@ -19,7 +19,7 @@ With this information, the eclection commision can have a detailed insight on th
 *Clearly, Diana DeGette won this election, scooping 73.8% of total votes.
 
 
-####BUSINESS PROPOSAL
+## BUSINESS PROPOSAL
 This script can come in very handy for future elections in order to provide a quick and efficient insight and overview of the elections for informed ecision making.
 The following modifications should be made in order for the script to be useful:
 *.csv file can be changed or modified in order to input the appropriate data for analysis.
